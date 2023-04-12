@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kelvinchwara
-- 👀 I’m interested in ...programming
+- 👀 I'm good at POWER BI, SQL AND PYTHON 
 - 🌱 I’m currently learning ...at kisii university
 - 💞️ I’m looking to collaborate on ...coding
 - 📫 How to reach me ...kelvi20sagini@gmail.com
